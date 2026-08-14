@@ -50,6 +50,10 @@ overflow-y: auto;
 PROFILE
 ================================= */
 
+.profile {
+    text-align: center;
+}
+
 .profile-photo {
     width: 170px;
     height: 200px;
@@ -64,27 +68,19 @@ PROFILE
 }
 
 .profile h1 {
-margin: 8px 0 3px;
-
-font-size: 25px;
-
-font-weight: 600;
-
-text-align: center;
-
-color: #234f7d;
-
+    margin: 8px 0 3px;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+   color: #234f7d;
 }
 
 .profile p {
-margin: 3px 0;
-
-font-size: 14px;
-
-font-weight: 400;
-
-color: #666;
-
+    margin: 3px 0;
+    font-size: 14px;
+    color: #666;
+   font-weight: 400;
+    text-align: center;
 }
 
 /* =================================
